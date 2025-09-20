@@ -1,16 +1,61 @@
 .judul {
     text-align: center;
 }
-.menu {
-    border-right: 2px solid black;
-    padding: 5px;
+.bungkusmenu{
+    padding: 0px;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    text-align: center;
 }
-
+.menupertama {
+     padding: 10px;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+}
+.menu {
+    padding: 10px;
+    border-right: 2px solid blue;
+}
+.garisborder {
+    border: 2px solid blue;
+}
+.sejarah{
+    text-align: center;
+    padding-top: 20px;
+}
 .isi{
     text-align: justify ;
     padding: 50px;
+    font-size: 18px;
 }
-
+.isiatas{
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    font-size: 18px;
+}
+.isibawah{
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 2px;
+    font-size: 18px;
+}
+.bordertengah{
+    border: none;
+    border-radius: 99px;
+    margin-left:50px;
+    margin-right:50px;
+    padding: 20px;
+    background-color: yellow;
+    font-size: 18px;
+}
+.created{
+    text-align: center;
+    font-size: 16px;
+}
 .kotaknim {
     padding: 10px;
 }
