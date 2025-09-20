@@ -1,0 +1,69 @@
+.judul {
+    text-align: center;
+}
+.menu {
+    border-right: 2px solid black;
+    padding: 5px;
+}
+
+.isi{
+    text-align: justify ;
+    padding: 50px;
+}
+
+.kotaknim {
+    padding: 10px;
+}
+.divnim {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.nimno1 {
+    background-color: maroon;
+    color: white;
+}
+.nimno2 {
+    background-color: rgb(10, 68, 0);
+    color: white;
+}
+.nimno3 {
+    background-color: rgb(0, 0, 92);
+    color: white;
+}
+.nimno4 {
+    background-color: rgb(90, 108, 0);
+    color: white;
+}
+.nimno5 {
+    background-color: rgb(0, 115, 128);
+    color: white;
+}
+.nimno6 {
+    background-color: rgb(188, 255, 3);
+    color: black;
+}
+.nimno7 {
+    background-color: rgb(3, 234, 255);
+    color: black;
+}
+.nimno8 {
+    background-color: rgb(251, 0, 255);
+    color: white;
+}
+.nimno9 {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+.nimno10 {
+    background-color: rgb(188, 255, 3);
+    color: black;
+}
+.nimno11 {
+    background-color: rgb(26, 255, 0);
+    color: rgb(0, 0, 0);
+}
+.nimno12 {
+    background-color: rgb(30, 0, 255);
+    color: white;
+}
